@@ -40,19 +40,13 @@ I am a Computer Science student at the University of Southern California, pursui
 ## 🚀 Projects
 
 ### [Personal Experience Website](https://epiphany625.github.io/)
-- Developing and showcasing personal professional experiences, hobbies, and projects with 10+ stateful components
-- Enhancing web layout with React Router DOM and with API interactions for dynamic content
-- Integrating a Gomoku game project with responsive layout and winner detection algorithms
+- I developed a personal website with React to showcase my past experiences and integrated my favorite board game: Gomoku!
 
 ### [Historical Stock & Revenue Analysis](https://github.com/Epiphany625/StockData)
-- Utilized public APIs like yfinance for extracting comprehensive historical stock data of Netflix and Tesla
-- Executed exploratory data analysis and in-depth investigations with pandas for informed investment decisions
-- Built a dashboard with Seaborn and Matplotlib to visualize outcomes and analysis
+- I utilized public APIs like yfinance for extracting with various Python libraries to comprehensively analyze historical stock data of Netflix and Tesla for informed investment decisions.
 
 ### [USChedule](https://github.com/Epiphany625/USChedule)
-- Designed a C++ program with hashing to automate course selection process and avoid time conflicts for USC students
-- Customized course alignments by offering various options like latest wake-up schedules
-- Increased efficiency by 85% when compared to manual course alignment
+- I designed a C++ program with hashing to automate course selection process and avoid time conflicts for USC students. I also offed custom course alignment like latest wake-up schedules!
 
 ## 📚 Education
 

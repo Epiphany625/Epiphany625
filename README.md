@@ -25,10 +25,9 @@ I am a Computer Science student at the University of Southern California, pursui
 - 🔭 Working on autonomous driving software projects at Bot Auto TX Inc.
 - 🌱 Learning advanced machine learning applications and improving my skills in React.
 - 👯 Looking to collaborate on open-source projects related to web development and software engineering.
-- 🤔 Seeking help with advanced C++ programming techniques and real-time data processing.
 - 💬 Talk about about Python, React, C++, or any of my projects!
-- 📫 How to reach me: xinyangxu-2023@outlook.com; epiphany0625@outlook.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me: xinyangxu-2023@outlook.com; epiphany0625@outlook.com.
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I cannot pronounce perro in Spanish. 
 
 ## 🛠 Skills
@@ -54,7 +53,6 @@ I am a Computer Science student at the University of Southern California, pursui
 - **Degree:** B.S. Computer Science
 - **Minor:** Artificial Intelligence Applications
 - **GPA:** 4.0/4.0
-- **Coursework:** Probability Theory, Discrete Mathematics in CS, Introduction to DS, Applications of Machine Learning (Audit)
 
 ## 🌐 Connect with Me
 
